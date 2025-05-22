@@ -1,5 +1,5 @@
 # Ex No: 07 - Design and Simulation of a 4-Bit Adder Using Verilog and Cadence nclaunch
-
+# NAME : KAMESHWARAN A(212223060110)
 ## Aim
 The aim is to design and simulate a **4-bit Adder** using **Verilog HDL** and verify its functionality using **Cadence nclaunch** for simulation.
 
@@ -99,10 +99,10 @@ endmodule
 
 ### Nclaunch Work Library Window
 
-![Screenshot 2025-05-21 155538](https://github.com/user-attachments/assets/187ebe28-40e2-44b2-9b78-d08bdc67d62c)
+![image](https://github.com/user-attachments/assets/8f8135b4-a9e1-42ee-884a-b4e85fdf7c6e)
 
 ### Simulation Waveforms
-![Screenshot 2025-05-21 155512](https://github.com/user-attachments/assets/4d1457be-ef30-4b8b-a58d-aa8ac39c078c)
+![image](https://github.com/user-attachments/assets/6a3ca4e8-a879-4c7a-8172-f4cd1cd9a1ad)
 
 
 
